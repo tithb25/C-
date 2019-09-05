@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\cau10\cau10\bin\Debug\netcoreapp2.1\cau10.deps.json
+C:\Users\Admin\source\repos\cau10\cau10\bin\Debug\netcoreapp2.1\cau10.runtimeconfig.json
+C:\Users\Admin\source\repos\cau10\cau10\bin\Debug\netcoreapp2.1\cau10.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\cau10\cau10\bin\Debug\netcoreapp2.1\cau10.dll
+C:\Users\Admin\source\repos\cau10\cau10\bin\Debug\netcoreapp2.1\cau10.pdb
+C:\Users\Admin\source\repos\cau10\cau10\obj\Debug\netcoreapp2.1\cau10.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\cau10\cau10\obj\Debug\netcoreapp2.1\cau10.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\cau10\cau10\obj\Debug\netcoreapp2.1\cau10.AssemblyInfo.cs
+C:\Users\Admin\source\repos\cau10\cau10\obj\Debug\netcoreapp2.1\cau10.dll
+C:\Users\Admin\source\repos\cau10\cau10\obj\Debug\netcoreapp2.1\cau10.pdb

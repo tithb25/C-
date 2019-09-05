@@ -1,0 +1,10 @@
+D:\codegym\tong2so\tong2so\bin\Debug\netcoreapp2.1\tong2so.deps.json
+D:\codegym\tong2so\tong2so\bin\Debug\netcoreapp2.1\tong2so.runtimeconfig.json
+D:\codegym\tong2so\tong2so\bin\Debug\netcoreapp2.1\tong2so.runtimeconfig.dev.json
+D:\codegym\tong2so\tong2so\bin\Debug\netcoreapp2.1\tong2so.dll
+D:\codegym\tong2so\tong2so\bin\Debug\netcoreapp2.1\tong2so.pdb
+D:\codegym\tong2so\tong2so\obj\Debug\netcoreapp2.1\tong2so.csproj.CoreCompileInputs.cache
+D:\codegym\tong2so\tong2so\obj\Debug\netcoreapp2.1\tong2so.AssemblyInfoInputs.cache
+D:\codegym\tong2so\tong2so\obj\Debug\netcoreapp2.1\tong2so.AssemblyInfo.cs
+D:\codegym\tong2so\tong2so\obj\Debug\netcoreapp2.1\tong2so.dll
+D:\codegym\tong2so\tong2so\obj\Debug\netcoreapp2.1\tong2so.pdb

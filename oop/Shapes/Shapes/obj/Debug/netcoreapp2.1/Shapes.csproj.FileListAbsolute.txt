@@ -1,0 +1,11 @@
+D:\codegym\Module2\New folder\Shapes\Shapes\obj\Debug\netcoreapp2.1\Shapes.csproj.CoreCompileInputs.cache
+D:\codegym\Module2\New folder\Shapes\Shapes\obj\Debug\netcoreapp2.1\Shapes.AssemblyInfoInputs.cache
+D:\codegym\Module2\New folder\Shapes\Shapes\obj\Debug\netcoreapp2.1\Shapes.AssemblyInfo.cs
+D:\codegym\Module2\New folder\Shapes\Shapes\bin\Debug\netcoreapp2.1\Shapes.deps.json
+D:\codegym\Module2\New folder\Shapes\Shapes\bin\Debug\netcoreapp2.1\Shapes.runtimeconfig.json
+D:\codegym\Module2\New folder\Shapes\Shapes\bin\Debug\netcoreapp2.1\Shapes.runtimeconfig.dev.json
+D:\codegym\Module2\New folder\Shapes\Shapes\bin\Debug\netcoreapp2.1\Shapes.dll
+D:\codegym\Module2\New folder\Shapes\Shapes\bin\Debug\netcoreapp2.1\Shapes.pdb
+D:\codegym\Module2\New folder\Shapes\Shapes\obj\Debug\netcoreapp2.1\Shapes.dll
+D:\codegym\Module2\New folder\Shapes\Shapes\obj\Debug\netcoreapp2.1\Shapes.pdb
+D:\codegym\Module2\New folder\Shapes\Shapes\obj\Debug\netcoreapp2.1\Shapes.csprojAssemblyReference.cache

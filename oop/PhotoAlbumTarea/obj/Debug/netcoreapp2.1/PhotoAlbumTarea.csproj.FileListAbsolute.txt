@@ -1,0 +1,11 @@
+D:\codegym\Module2\New folder\PhotoAlbumTarea\bin\Debug\netcoreapp2.1\PhotoAlbumTarea.deps.json
+D:\codegym\Module2\New folder\PhotoAlbumTarea\bin\Debug\netcoreapp2.1\PhotoAlbumTarea.runtimeconfig.json
+D:\codegym\Module2\New folder\PhotoAlbumTarea\bin\Debug\netcoreapp2.1\PhotoAlbumTarea.runtimeconfig.dev.json
+D:\codegym\Module2\New folder\PhotoAlbumTarea\bin\Debug\netcoreapp2.1\PhotoAlbumTarea.dll
+D:\codegym\Module2\New folder\PhotoAlbumTarea\bin\Debug\netcoreapp2.1\PhotoAlbumTarea.pdb
+D:\codegym\Module2\New folder\PhotoAlbumTarea\obj\Debug\netcoreapp2.1\PhotoAlbumTarea.csprojAssemblyReference.cache
+D:\codegym\Module2\New folder\PhotoAlbumTarea\obj\Debug\netcoreapp2.1\PhotoAlbumTarea.csproj.CoreCompileInputs.cache
+D:\codegym\Module2\New folder\PhotoAlbumTarea\obj\Debug\netcoreapp2.1\PhotoAlbumTarea.AssemblyInfoInputs.cache
+D:\codegym\Module2\New folder\PhotoAlbumTarea\obj\Debug\netcoreapp2.1\PhotoAlbumTarea.AssemblyInfo.cs
+D:\codegym\Module2\New folder\PhotoAlbumTarea\obj\Debug\netcoreapp2.1\PhotoAlbumTarea.dll
+D:\codegym\Module2\New folder\PhotoAlbumTarea\obj\Debug\netcoreapp2.1\PhotoAlbumTarea.pdb

@@ -1,0 +1,10 @@
+D:\codegym\Module2\cau5_hoandoiso\cau5_hoandoiso\bin\Debug\netcoreapp2.1\cau5_hoandoiso.deps.json
+D:\codegym\Module2\cau5_hoandoiso\cau5_hoandoiso\bin\Debug\netcoreapp2.1\cau5_hoandoiso.runtimeconfig.json
+D:\codegym\Module2\cau5_hoandoiso\cau5_hoandoiso\bin\Debug\netcoreapp2.1\cau5_hoandoiso.runtimeconfig.dev.json
+D:\codegym\Module2\cau5_hoandoiso\cau5_hoandoiso\bin\Debug\netcoreapp2.1\cau5_hoandoiso.dll
+D:\codegym\Module2\cau5_hoandoiso\cau5_hoandoiso\bin\Debug\netcoreapp2.1\cau5_hoandoiso.pdb
+D:\codegym\Module2\cau5_hoandoiso\cau5_hoandoiso\obj\Debug\netcoreapp2.1\cau5_hoandoiso.csproj.CoreCompileInputs.cache
+D:\codegym\Module2\cau5_hoandoiso\cau5_hoandoiso\obj\Debug\netcoreapp2.1\cau5_hoandoiso.AssemblyInfoInputs.cache
+D:\codegym\Module2\cau5_hoandoiso\cau5_hoandoiso\obj\Debug\netcoreapp2.1\cau5_hoandoiso.AssemblyInfo.cs
+D:\codegym\Module2\cau5_hoandoiso\cau5_hoandoiso\obj\Debug\netcoreapp2.1\cau5_hoandoiso.dll
+D:\codegym\Module2\cau5_hoandoiso\cau5_hoandoiso\obj\Debug\netcoreapp2.1\cau5_hoandoiso.pdb

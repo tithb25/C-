@@ -1,0 +1,10 @@
+D:\codegym\Module2\cau8_cuuChuong\cau8_cuuChuong\bin\Debug\netcoreapp2.1\cau8_cuuChuong.deps.json
+D:\codegym\Module2\cau8_cuuChuong\cau8_cuuChuong\bin\Debug\netcoreapp2.1\cau8_cuuChuong.runtimeconfig.json
+D:\codegym\Module2\cau8_cuuChuong\cau8_cuuChuong\bin\Debug\netcoreapp2.1\cau8_cuuChuong.runtimeconfig.dev.json
+D:\codegym\Module2\cau8_cuuChuong\cau8_cuuChuong\bin\Debug\netcoreapp2.1\cau8_cuuChuong.dll
+D:\codegym\Module2\cau8_cuuChuong\cau8_cuuChuong\bin\Debug\netcoreapp2.1\cau8_cuuChuong.pdb
+D:\codegym\Module2\cau8_cuuChuong\cau8_cuuChuong\obj\Debug\netcoreapp2.1\cau8_cuuChuong.csproj.CoreCompileInputs.cache
+D:\codegym\Module2\cau8_cuuChuong\cau8_cuuChuong\obj\Debug\netcoreapp2.1\cau8_cuuChuong.AssemblyInfoInputs.cache
+D:\codegym\Module2\cau8_cuuChuong\cau8_cuuChuong\obj\Debug\netcoreapp2.1\cau8_cuuChuong.AssemblyInfo.cs
+D:\codegym\Module2\cau8_cuuChuong\cau8_cuuChuong\obj\Debug\netcoreapp2.1\cau8_cuuChuong.dll
+D:\codegym\Module2\cau8_cuuChuong\cau8_cuuChuong\obj\Debug\netcoreapp2.1\cau8_cuuChuong.pdb

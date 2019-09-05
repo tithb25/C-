@@ -1,0 +1,10 @@
+D:\codegym\Module2\Basic Declarations\cau21\cau21\bin\Debug\netcoreapp2.1\cau21.deps.json
+D:\codegym\Module2\Basic Declarations\cau21\cau21\bin\Debug\netcoreapp2.1\cau21.runtimeconfig.json
+D:\codegym\Module2\Basic Declarations\cau21\cau21\bin\Debug\netcoreapp2.1\cau21.runtimeconfig.dev.json
+D:\codegym\Module2\Basic Declarations\cau21\cau21\bin\Debug\netcoreapp2.1\cau21.dll
+D:\codegym\Module2\Basic Declarations\cau21\cau21\bin\Debug\netcoreapp2.1\cau21.pdb
+D:\codegym\Module2\Basic Declarations\cau21\cau21\obj\Debug\netcoreapp2.1\cau21.csproj.CoreCompileInputs.cache
+D:\codegym\Module2\Basic Declarations\cau21\cau21\obj\Debug\netcoreapp2.1\cau21.AssemblyInfoInputs.cache
+D:\codegym\Module2\Basic Declarations\cau21\cau21\obj\Debug\netcoreapp2.1\cau21.AssemblyInfo.cs
+D:\codegym\Module2\Basic Declarations\cau21\cau21\obj\Debug\netcoreapp2.1\cau21.dll
+D:\codegym\Module2\Basic Declarations\cau21\cau21\obj\Debug\netcoreapp2.1\cau21.pdb

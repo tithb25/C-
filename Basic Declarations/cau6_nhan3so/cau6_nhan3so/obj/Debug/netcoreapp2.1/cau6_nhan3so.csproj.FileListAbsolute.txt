@@ -1,0 +1,10 @@
+D:\codegym\Module2\cau6_nhan3so\cau6_nhan3so\bin\Debug\netcoreapp2.1\cau6_nhan3so.deps.json
+D:\codegym\Module2\cau6_nhan3so\cau6_nhan3so\bin\Debug\netcoreapp2.1\cau6_nhan3so.runtimeconfig.json
+D:\codegym\Module2\cau6_nhan3so\cau6_nhan3so\bin\Debug\netcoreapp2.1\cau6_nhan3so.runtimeconfig.dev.json
+D:\codegym\Module2\cau6_nhan3so\cau6_nhan3so\bin\Debug\netcoreapp2.1\cau6_nhan3so.dll
+D:\codegym\Module2\cau6_nhan3so\cau6_nhan3so\bin\Debug\netcoreapp2.1\cau6_nhan3so.pdb
+D:\codegym\Module2\cau6_nhan3so\cau6_nhan3so\obj\Debug\netcoreapp2.1\cau6_nhan3so.csproj.CoreCompileInputs.cache
+D:\codegym\Module2\cau6_nhan3so\cau6_nhan3so\obj\Debug\netcoreapp2.1\cau6_nhan3so.AssemblyInfoInputs.cache
+D:\codegym\Module2\cau6_nhan3so\cau6_nhan3so\obj\Debug\netcoreapp2.1\cau6_nhan3so.AssemblyInfo.cs
+D:\codegym\Module2\cau6_nhan3so\cau6_nhan3so\obj\Debug\netcoreapp2.1\cau6_nhan3so.dll
+D:\codegym\Module2\cau6_nhan3so\cau6_nhan3so\obj\Debug\netcoreapp2.1\cau6_nhan3so.pdb

@@ -1,0 +1,10 @@
+D:\codegym\Module2\chia2so\chia2so\bin\Debug\netcoreapp2.1\chia2so.deps.json
+D:\codegym\Module2\chia2so\chia2so\bin\Debug\netcoreapp2.1\chia2so.runtimeconfig.json
+D:\codegym\Module2\chia2so\chia2so\bin\Debug\netcoreapp2.1\chia2so.runtimeconfig.dev.json
+D:\codegym\Module2\chia2so\chia2so\bin\Debug\netcoreapp2.1\chia2so.dll
+D:\codegym\Module2\chia2so\chia2so\bin\Debug\netcoreapp2.1\chia2so.pdb
+D:\codegym\Module2\chia2so\chia2so\obj\Debug\netcoreapp2.1\chia2so.csproj.CoreCompileInputs.cache
+D:\codegym\Module2\chia2so\chia2so\obj\Debug\netcoreapp2.1\chia2so.AssemblyInfoInputs.cache
+D:\codegym\Module2\chia2so\chia2so\obj\Debug\netcoreapp2.1\chia2so.AssemblyInfo.cs
+D:\codegym\Module2\chia2so\chia2so\obj\Debug\netcoreapp2.1\chia2so.dll
+D:\codegym\Module2\chia2so\chia2so\obj\Debug\netcoreapp2.1\chia2so.pdb
