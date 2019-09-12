@@ -1,0 +1,4 @@
+D:\codegym\C#\Practical\Paractical 1\Paractical 1\obj\Debug\netcoreapp2.1\Excercise 1 + 2.csprojAssemblyReference.cache
+D:\codegym\C#\Practical\Paractical 1\Paractical 1\obj\Debug\netcoreapp2.1\Excercise 1 + 2.csproj.CoreCompileInputs.cache
+D:\codegym\C#\Practical\Paractical 1\Paractical 1\obj\Debug\netcoreapp2.1\Excercise 1 + 2.AssemblyInfoInputs.cache
+D:\codegym\C#\Practical\Paractical 1\Paractical 1\obj\Debug\netcoreapp2.1\Excercise 1 + 2.AssemblyInfo.cs

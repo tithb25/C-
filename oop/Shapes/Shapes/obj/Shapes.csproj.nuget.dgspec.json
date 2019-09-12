@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\codegym\\Module2\\New folder\\Shapes\\Shapes\\Shapes.csproj": {}
+    "D:\\codegym\\C#\\oop\\Shapes\\Shapes\\Shapes.csproj": {}
   },
   "projects": {
-    "D:\\codegym\\Module2\\New folder\\Shapes\\Shapes\\Shapes.csproj": {
+    "D:\\codegym\\C#\\oop\\Shapes\\Shapes\\Shapes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\codegym\\Module2\\New folder\\Shapes\\Shapes\\Shapes.csproj",
+        "projectUniqueName": "D:\\codegym\\C#\\oop\\Shapes\\Shapes\\Shapes.csproj",
         "projectName": "Shapes",
-        "projectPath": "D:\\codegym\\Module2\\New folder\\Shapes\\Shapes\\Shapes.csproj",
+        "projectPath": "D:\\codegym\\C#\\oop\\Shapes\\Shapes\\Shapes.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\codegym\\Module2\\New folder\\Shapes\\Shapes\\obj\\",
+        "outputPath": "D:\\codegym\\C#\\oop\\Shapes\\Shapes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,0 +1,10 @@
+D:\codegym\C#\Practical\Paractical 1\Exetcise4\obj\Debug\netcoreapp2.1\Exetcise4.csproj.CoreCompileInputs.cache
+D:\codegym\C#\Practical\Paractical 1\Exetcise4\obj\Debug\netcoreapp2.1\Exetcise4.AssemblyInfoInputs.cache
+D:\codegym\C#\Practical\Paractical 1\Exetcise4\obj\Debug\netcoreapp2.1\Exetcise4.AssemblyInfo.cs
+D:\codegym\C#\Practical\Paractical 1\Exetcise4\bin\Debug\netcoreapp2.1\Exetcise4.deps.json
+D:\codegym\C#\Practical\Paractical 1\Exetcise4\bin\Debug\netcoreapp2.1\Exetcise4.runtimeconfig.json
+D:\codegym\C#\Practical\Paractical 1\Exetcise4\bin\Debug\netcoreapp2.1\Exetcise4.runtimeconfig.dev.json
+D:\codegym\C#\Practical\Paractical 1\Exetcise4\bin\Debug\netcoreapp2.1\Exetcise4.dll
+D:\codegym\C#\Practical\Paractical 1\Exetcise4\bin\Debug\netcoreapp2.1\Exetcise4.pdb
+D:\codegym\C#\Practical\Paractical 1\Exetcise4\obj\Debug\netcoreapp2.1\Exetcise4.dll
+D:\codegym\C#\Practical\Paractical 1\Exetcise4\obj\Debug\netcoreapp2.1\Exetcise4.pdb

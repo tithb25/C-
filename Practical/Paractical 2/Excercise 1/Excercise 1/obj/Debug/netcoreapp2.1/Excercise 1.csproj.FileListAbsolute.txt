@@ -1,0 +1,11 @@
+D:\codegym\C#\Practical\Paractical 2\Excercise 1\Excercise 1\bin\Debug\netcoreapp2.1\Excercise 1.deps.json
+D:\codegym\C#\Practical\Paractical 2\Excercise 1\Excercise 1\bin\Debug\netcoreapp2.1\Excercise 1.runtimeconfig.json
+D:\codegym\C#\Practical\Paractical 2\Excercise 1\Excercise 1\bin\Debug\netcoreapp2.1\Excercise 1.runtimeconfig.dev.json
+D:\codegym\C#\Practical\Paractical 2\Excercise 1\Excercise 1\bin\Debug\netcoreapp2.1\Excercise 1.dll
+D:\codegym\C#\Practical\Paractical 2\Excercise 1\Excercise 1\bin\Debug\netcoreapp2.1\Excercise 1.pdb
+D:\codegym\C#\Practical\Paractical 2\Excercise 1\Excercise 1\obj\Debug\netcoreapp2.1\Excercise 1.csprojAssemblyReference.cache
+D:\codegym\C#\Practical\Paractical 2\Excercise 1\Excercise 1\obj\Debug\netcoreapp2.1\Excercise 1.csproj.CoreCompileInputs.cache
+D:\codegym\C#\Practical\Paractical 2\Excercise 1\Excercise 1\obj\Debug\netcoreapp2.1\Excercise 1.AssemblyInfoInputs.cache
+D:\codegym\C#\Practical\Paractical 2\Excercise 1\Excercise 1\obj\Debug\netcoreapp2.1\Excercise 1.AssemblyInfo.cs
+D:\codegym\C#\Practical\Paractical 2\Excercise 1\Excercise 1\obj\Debug\netcoreapp2.1\Excercise 1.dll
+D:\codegym\C#\Practical\Paractical 2\Excercise 1\Excercise 1\obj\Debug\netcoreapp2.1\Excercise 1.pdb
